@@ -2,6 +2,7 @@
 public class Main {
     public static void main(String[] args) {
        // This lines prints hello world
-	 System.out.println("Hello, World!");
+	System.out.println("Hello, World!");
+	System.out.println("Hello, git!");
     }
 }
